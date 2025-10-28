@@ -19,4 +19,12 @@ You move disks between three rods (A, B, and C) following the Tower of Hanoi rul
 - The program starts by asking for the **number of disks** (1–10).
 - All disks start stacked on **Rod A** (largest at bottom).
 - You enter moves like this:
+- Move from (A/B/C): A
+  Move to (A/B/C): C
+
+- The program checks if your move is valid and updates the rods.
+- When all disks are moved to **Rod C**, you win 🎉!
+
+
+
 
